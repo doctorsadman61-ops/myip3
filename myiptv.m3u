@@ -5,4 +5,4 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=3395807
 #EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/arshakir/iptv-bangladesh/main/logos/deepto.png", Deepto TV
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/arshakir/iptv-bangladesh/main/logos/deepto.png", Deepto TV
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+http://10.102.100.254:7890/T-SPORTS-HD/tracks-v1/index.fmp4.m3u8
