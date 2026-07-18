@@ -7,7 +7,7 @@ https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2Ftv.
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=3395807
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", PTV Sports HD
-http://10.252.252.10:8888/bdix_tv/index.m3u8
+http://10.252.252.10:8888/bdix_tv/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
