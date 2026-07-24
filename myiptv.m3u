@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://live-sportz.com/65e928e71eeb47c7ce171a70ebc33480.png", Live-Sports
-http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/index.m3u8
-#EXTINF:-1 tvg-logo="http://live-sportz.com/65e928e71eeb47c7ce171a70ebc33480.png", Live-Sports-2
-http://10.200.200.10:8888/bdix_tv/index.m3u8
+##EXTINF:-1 tvg-logo="http://live-sportz.com/65e928e71eeb47c7ce171a70ebc33480.png", Live-Sports
+#http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/index.m3u8
+##EXTINF:-1 tvg-logo="http://live-sportz.com/65e928e71eeb47c7ce171a70ebc33480.png", Live-Sports-2
+#http://10.200.200.10:8888/bdix_tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg", T-sports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
