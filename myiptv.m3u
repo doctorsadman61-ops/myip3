@@ -58,7 +58,8 @@ http://10.200.200.10:8888/bdix_tv/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
-http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+#http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FStar_Jalsha%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg", Colours
 http://tv.dugdugilive.com:8080/0ne$ky23/Colors/tracks-v1a1/mono.m3u8
