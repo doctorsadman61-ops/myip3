@@ -5,7 +5,7 @@
 #disable:-1 tvg-logo="http://live-sportz.com/65e928e71eeb47c7ce171a70ebc33480.png", Live-Sports-2
 #http://10.200.200.10:8888/bdix_tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg", T-sports
+#disable:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg", T-sports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Logo_of_Deepto_TV.svg", Deepto TV
@@ -21,7 +21,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
 
 ##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg", SOMOY TV
-#https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FSomoy-tv%2Ftracks-v1a1%2Fmono.m3u8
+#http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/e0/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg", BANGLA VISION
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
@@ -60,7 +60,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
-#http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FStar_Jalsha%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg", Colours
