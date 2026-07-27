@@ -78,4 +78,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", PTV Sports HD
-http://10.200.200.10:8888/bdix_tv/index.m3u8
+http://10.200.200.10:8888/ch2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", PTV Sports HD
+http://10.200.200.10:8888/ch3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", PTV Sports HD
+http://10.200.200.10:8888/ch4/index.m3u8
